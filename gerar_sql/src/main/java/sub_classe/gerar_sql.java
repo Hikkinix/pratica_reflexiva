@@ -1,4 +1,4 @@
-package super_classe;
+package sub_classe;
 
 import utils.JavaUtils;
 
